@@ -1,0 +1,9 @@
+MONGODB_HOST: mongodb.skillup-dsops.store
+REDIS_HOST: redis.skillup-dsops.store
+CATALOGUE_HOST: catalogue.skillup-dsops.store
+CART_HOST: cart.skillup-dsops.store
+USER_HOST: user.skillup-dsops.store
+RABBITMQ_HOST: rabbitmq.skillup-dsops.store
+MYSQL_HOST: mysql.skillup-dsops.store
+SHIPPING_HOST: shipping.skillup-dsops.store
+PAYMENT_HOST: payment.skillup-dsops.store
